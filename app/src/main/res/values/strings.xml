@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CricketQuiz</string>
+    <string name="action_bar"><b>Cricket challange!!!</b></string>
+    <string name="remQs">Remaining</string>
+    <string name="yes">TRUE</string>
+    <string name="no">FALSE</string>
+    <string name="correctToast">GREAT WORK!!!</string>
+    <string name="wrongToast">THAT WAS A MISTAKE. ANSWER CAREFULLY!!!</string>
+    <string name="q1">Sachin Tendulkar\'s 100th century was against England.</string>
+    <string name="q2">Gautam Gambhir is the man of the match in 2007 Twenty-Twenty world cup final.</string>
+    <string name="q3">MS Dhoni was the man who gave the final blow for India in winning 2011 ODI world cup</string>
+    <string name="q4">Ganguly is referred as \"THE WALL\"</string>
+    <string name="q5">The nickname of Virat Kohli is \"Chiku\"</string>
+    <string name="q6">Shikar Dhavan won the \"Golden Bat\" award in Champions Trophy 2013.</string>
+    <string name="q7">Rahul Dravid is referred as \"THE WALL\"</string>
+    <string name="q8">\"Bajji\" is the nick name of a famous Indian off-spinner</string>
+    <string name="q9">Usman Khawaja has involved famous ball tampering issue that occured in 2018</string>
+    <string name="q10">The title \"UNIVERSAL BOSS\" belongs to Chris Gayle</string>
+</resources>
